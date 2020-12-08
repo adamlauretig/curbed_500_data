@@ -1,3 +1,4 @@
+# Code by Adam Lauretig, created 12/7/2020
 rm(list = ls())
 library(data.table)
 library(ggplot2)
